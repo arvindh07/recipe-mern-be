@@ -6,8 +6,8 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start-server":"node src/index.js",
-    "server": "nodemon src/server.js"
+    "start-server":"node ./src/index.js",
+    "server": "nodemon ./src/index.js"
   },
   "author": "",
   "license": "ISC",
